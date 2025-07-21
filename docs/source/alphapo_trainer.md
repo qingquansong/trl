@@ -1,4 +1,4 @@
-# AlphaPO Trainer
+# AlphaPO Trainer   
 
 [![](https://img.shields.io/badge/All_models-ORPO-blue)](https://huggingface.co/models?other=orpo,trl) [![](https://img.shields.io/badge/smol_course-Chapter_2-yellow)](https://github.com/huggingface/smol-course/tree/main/2_preference_alignment)
 
